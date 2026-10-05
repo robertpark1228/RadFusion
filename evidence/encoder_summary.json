@@ -1,0 +1,8 @@
+{
+  "step": 3157795,
+  "elapsed_hours": 59.99603231516149,
+  "batch_used": 256,
+  "model_parameters": 2164362147,
+  "cache_cells_rank0": 388844,
+  "cache_gb_rank0": 10.73163291066885
+}

@@ -1,0 +1,18 @@
+{
+  "release": "RadFusion_R3_REFERENCE_V1",
+  "reference_cells": 3113467,
+  "datasets": 15,
+  "genes": 14817,
+  "shards": 163,
+  "nnz": 5276024019,
+  "matrix_bytes": 10981520700,
+  "metadata_bytes": 172401479,
+  "vocabulary_sha256": "705ee2a080ff6b5d30e98620b8ebdb9080cd066dc97a952c51a710d7cb8a744d",
+  "vocabulary_ensembl_sha256": "4d20699353a307ec9ef1219387f9e3b43737041598e26c8a2ce7eedbd8d68028",
+  "manifest_sha256": "4edb5db55934b4c6450df9983c2fa565ac669606458cde524b91b46062c07279",
+  "matrix_format": "SciPy CSR NPZ",
+  "count_dtype": "int32",
+  "source": "CELLxGENE breast/mammary reference",
+  "spatial_included": false,
+  "random_cell_split": false
+}
